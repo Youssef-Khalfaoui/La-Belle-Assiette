@@ -191,14 +191,4 @@ La page clients affiche un tableau de tous les utilisateurs inscrits avec leur n
 | `commandes`         | Commandes passées                    |
 | `commande_details`  | Détail des plats par commande        |
 
----
 
-## 🔒 Sécurité Implémentée
-- Mots de passe hashés avec `password_hash()` (bcrypt)
-- Requêtes préparées PDO (protection injection SQL)
-- Vérification de rôle sur toutes les pages admin
-- `htmlspecialchars()` sur toutes les sorties HTML (protection XSS)
-
----
-
-*Projet réalisé dans le cadre du cours de développement web — Chapitre 4*
