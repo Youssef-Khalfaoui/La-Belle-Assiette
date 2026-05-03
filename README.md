@@ -109,7 +109,7 @@ Chaque plat est présenté sous forme de carte avec photo, badge de catégorie, 
 
 Toutes les catégories sont couvertes, y compris les desserts et boissons affichés en bas de page avec le footer du site.
 
-![Bas de menu — Desserts et Boissons](img/frame_002.jpg)
+![Bas de menu — Desserts et Boissons](img/frame_002.png)
 
 ---
 
